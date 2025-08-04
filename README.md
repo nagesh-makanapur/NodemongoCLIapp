@@ -27,4 +27,4 @@ Supports inserting, viewing, updating, and deleting students.
 
 1. **Clone the repository**
    ```bash
-   git clone <https://github.com/nagesh-makanapur/NodemongoCLIapp>
+   git clone https://github.com/nagesh-makanapur/NodemongoCLIapp
