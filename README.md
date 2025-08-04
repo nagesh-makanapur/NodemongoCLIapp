@@ -28,3 +28,17 @@ Supports inserting, viewing, updating, and deleting students.
 1. **Clone the repository**
    ```bash
    git clone https://github.com/nagesh-makanapur/NodemongoCLIapp
+   
+   Install dependencies
+   npm install mongoose
+
+   --- Student Management CLI ---
+1. Insert Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Exit
+-------------------------------
+
+
+
